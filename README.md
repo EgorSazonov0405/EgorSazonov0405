@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>👋Hi there,  I'm Egor</h1>
+    <h3>🐧Student from St.Peterburg🐧</h3>
+    
+</div>
 
-<!--
-**EgorSazonov0405/EgorSazonov0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="body">
+    <i>
+    <h4>I'm study at the Peter the Great St.Petersburg Polytechnic University<br />
+    Direction: Radio Engineering <br />
+    Group: 49311101/30002 <br />
+    <details>
+    <summary> I'm interested in:</summary><br />
+    🥇Infomatics<br />
+    🥈Physics<br />
+    🥉Mathematics<br />
+    🏅Sports
+    </details>
+    <details>
+    <summary> I’m learning:</summary><br />
+        👉Python<br />
+        👉HTML Basics<br />
+        👉C++ Basics<br />
+        👉English language<br />
+    </details>
+    </h4>
+    </i>
+</div>
