@@ -21,7 +21,9 @@
         👉Python<br />
         👉HTML Basics<br />
         👉C++ Basics<br />
+        👉React<br />
         👉English language<br />
+        
     </details>
     </h4>
     </i>
