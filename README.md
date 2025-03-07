@@ -23,4 +23,7 @@
         👉C++ Basics<br />
         👉React<br />
         👉English language<br />
+        
+<img src="https://raw.githubusercontent.com/EgorSazonov0405/EgorSazonov0405/output/snake.svg" alt="Snake animation" />
+
 </div>
