@@ -13,6 +13,8 @@ What drives me:
  - Personal growth through systematic planning and discipline
  - Sharing knowledge and building a strong professional community
 
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
+
 # 🛠️ Technical Stack
 
 ### 🔄 DevOps & Cloud Technologies
@@ -51,9 +53,6 @@ What drives me:
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-# Contributing
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
 # 📈 GitHub Analytics
 
